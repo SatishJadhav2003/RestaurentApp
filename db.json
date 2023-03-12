@@ -1,0 +1,77 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "name": "sdvbn ",
+      "email": "sd",
+      "mobile": "`123",
+      "address": "ASFM,",
+      "service": "ASDF"
+    },
+    {
+      "id": 3,
+      "name": "bhareart",
+      "email": "bharatbhareat@gmail.com",
+      "mobile": "13467890",
+      "address": "nmashuikj",
+      "service": "tea"
+    },
+    {
+      "id": 4,
+      "name": "chetan",
+      "email": "chetan@gmail.com",
+      "mobile": "1234567890",
+      "address": "india",
+      "service": "wheels,sprite"
+    },
+    {
+      "id": 5,
+      "name": "ssdsss",
+      "email": "ssds@gmail.com",
+      "mobile": "1234567890",
+      "address": "mumbai",
+      "service": "tea"
+    }
+  ],
+  "signup": [
+    {
+      "name": "satish",
+      "email": "sj@gmail.com",
+      "mobile": "1234567890",
+      "password": "#Satish2003",
+      "id": 1
+    },
+    {
+      "name": "ssds",
+      "email": "dsds",
+      "mobile": "sdsd",
+      "password": "sdsd",
+      "id": 2
+    },
+    {
+      "name": "ssds",
+      "email": "dsds",
+      "mobile": "sdsd",
+      "password": "sdsd",
+      "id": 3
+    },
+    {
+      "name": "sdd",
+      "email": "dfg",
+      "mobile": "ddfdf",
+      "password": "sdfnm",
+      "id": 4
+    },
+    {
+      "name": "satish",
+      "email": "a@gmail.com",
+      "mobile": "1234567890",
+      "password": "#Satish",
+      "id": 5
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
